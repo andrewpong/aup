@@ -15,7 +15,7 @@ defaultEntryPoints = ["https","http"]
 [retry]
 
 [acme]
-email = "YOU@EXAMPLE.COM"
+email = "a@awp.io"
 storage = "acme.json"
 entryPoint = "https"
 OnHostRule = true
